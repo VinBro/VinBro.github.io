@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Numérologie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h2>Numérologie</h2>
+  <div class="inputs">
+    <div>
+      <label for="birthDate">Date de naissance</label>
+      <input id="birthDate" type="date" />
+    </div>
+    <!--
+    <div>
+      <label for="currentYear">Année en cours</label>
+      <input id="currentYear" type="text" />
+    </div>
+-->
+    <div>
+      <label for="dateToCompareTo">Date du jour</label>
+      <input id="dateToCompareTo" type="date" />
+      <button id="setDateTodayBtn">Aujourd'hui</button>
+    </div>
+    <div>
+      <label for="firstName">Prénom</label>
+      <input id="firstName" type="text" />
+    </div>
+    <button id="computeBtn">
+      Calculer
+    </button>
+  </div>
+  <div id="results">
+    <h3>Résultat</h3>
+    <div id="yearOfLife" class="blocResult"></div>
+    <div id="lifePath" class="blocResult"></div>
+    <div id="firstNameLetters" class="blocResult">
+      <ul>
+
+      </ul>
+    </div>
+  </div>
+
+  <h3>Texte pour <a href="https://chatgpt.com" target="_blank">ChatGPT</a></h3>
+  <button id="copyBtn">Copier le texte</button>
+  <div id="textForChatGpt">
+
+  </div>
+
+  <script src="./dist/index.js"></script>
+</body>
+
+</html>

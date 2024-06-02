@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6", // Version de JavaScript ciblée
+    "module": "es6", // Système de modules utilisé
+    "outDir": "./dist", // Répertoire de sortie pour les fichiers compilés
+    "rootDir": "./src", // Répertoire racine des fichiers source
+    "strict": true, // Activer toutes les vérifications strictes
+    "esModuleInterop": true, // Activer l'interopérabilité avec les modules ES
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
