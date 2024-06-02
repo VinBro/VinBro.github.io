@@ -1,0 +1,42 @@
+Couleur pas flashy, du genre pastel (brun, beige, vert clair)
+
+- Sur toutes les pages
+	- Menu principal (Home, Prestations, A propos), menu de langue (mettre plus tard)
+	- Footer avec, réseaux sociaux (Facebook, Instagram), adresse mail, 1680 Romont
+
+- Home page 
+	- Image de fond sur toute la page
+	- Petit texte "Ease Your Pain & Discomfort" "Enjoy... "
+	- Bouton "Réserver"
+
+- Prestations
+	3 Sections en one page: 
+	- Reiki (petite image, petit texte, bouton Réserver --> lien vers appli externe calendrier)
+	- Numérologie (petite image, petit texte, bouton Contacter)
+	- Soins à distance (petite image, petit texte, bouton Contacter)
+
+- A propos
+	- Brève présentation
+	- Certification Reiki
+
+- Google analytics
+
+
+
+
+	
+
+
+
+- Primary button tout en haut à droite "Réserver maintenant" avec la couleur primaire
+- Menu principal tout en haut
+- Image de fond, avec un titre par dessus "Soins énerg
+
+
+
+
+
+
+
+- Contact
+
